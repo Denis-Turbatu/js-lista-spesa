@@ -15,10 +15,10 @@ while (i < objectToAdd) {
     objectList.push(objectRequested);
     const listElem = document.createElement("li");
     listElem.innerHTML = objectList[i];
+    listElem.addEventListener("click", function () {
+        listElem.classList.toggle("taken");
+    });
+    // OUTPUT
     shoppingListElem.append(listElem);
     i++;
 }
-
-// OUTPUT
-
-

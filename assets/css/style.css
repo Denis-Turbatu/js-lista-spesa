@@ -1,3 +1,45 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+}
+
+.list-grocery {
+    background-color: #ffffff;
+    width: 40%;
+    height: 70%;
+    border-radius: 15px;
+}
+
+ul{
+    width: 100%;
+}
+
+li {
+    margin-left: 50px;
+    padding: 20px 0;
+    font-size: 1.2rem;
+}
+
+.title{
+    font-size: 1.5rem;
+    text-align: center;
+    margin: 20px 0;
+}
+
 .taken{
     text-decoration: line-through;
 }

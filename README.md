@@ -8,16 +8,15 @@ Rifacciamo l’esercizio visto insieme, ma questa volta con il ciclo while al po
 
 ### INPUT 
 
-- [] Creare una lista HTML per poter inserire gli oggetti della lista
-- [] Creare variabile con richiesta dell'utente per inserire un numero di oggetti
-- [] Creare array per la richiesta dei singoli oggetti da inserire nella lista
+- [X] Creare una lista HTML per poter inserire gli oggetti della lista
+- [X] Creare variabile con richiesta dell'utente per inserire un numero di oggetti
+- [X] Creare array per la richiesta dei singoli oggetti da inserire nella lista
 
 ### ESECUZIONE LOGICA
 
-- [] Fare ciclo while con un numero di iterazioni in base a quanti oggetti inserisce l'utente
-- [] Scorrere l'array
-- [] Creare un oggetto 'li' per ogni oggetto richiesto dall'utente
-- [] Inserire nell'oggetto creato il valore degli array durante lo scorrimento
+- [X] Fare ciclo while con un numero di iterazioni in base a quanti oggetti inserisce l'utente
+- [X] Creare un oggetto 'li' per ogni oggetto richiesto dall'utente
+- [X] Inserire nell'oggetto creato il valore degli array durante lo scorrimento
 - [] Creare un addEventListener per segnare l'oggetto dela lista come preso sul click
 
 ### OUTPUT
